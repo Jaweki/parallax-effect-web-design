@@ -110,6 +110,13 @@ function MainSection() {
       <div className="bg-black w-full h-[135px] max-sm:h-[55vh] -mt-[8rem] px-32 max-lg:px-10 max-sm:px-7" >
         <Footer />
       </div>
+
+      {/* Acknowledgement */}
+      <p className=" absolute bottom-3 md:bottom-0 text-white w-full text-center">
+        Coding Challenge by: <a href="https://www.frontendmentor.io/" className=" text-blue-600 hover:underline" target="_blank">Frontend Mentor</a>
+        Coded by: <a href="https:portfolio.jaweki.com" className="text-blue-600 hover:underline" target="_blank">Jaweki</a>
+        and <a href="https://github.com/hiulam1" className="text-blue-600 hover:underline" target="_blank">Terri</a>
+      </p>
     </div>
   )
 }
