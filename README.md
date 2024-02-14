@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub](https://github.com/Jaweki/parallax-effect-web-design)
 - Live Site URL: [Deployed on Vercel](https://parallax-effect-web-design.vercel.app/)
 
 ## Build process
