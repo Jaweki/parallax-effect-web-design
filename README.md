@@ -113,7 +113,7 @@ As of this point this project is at a development milestone; and can be used or 
 
 ## Acknowledgements
 
-This task was done with cooperation in a pair programming session with [Terri Tse](https://github.com/hiulam1). Pair Programming session organized by chingu.io and This project challenge guided and design resources provided by Frontend Mentor.
+This task was done with co-operation in a pair programming session with [Terri Tse](https://github.com/hiulam1). Pair Programming session organized by chingu.io and This project challenge guided and design resources provided by Frontend Mentor.
 
 Pair programming session was prepared by [Chingu](https://www.chingu.io/) a web developers forum, that helps in boost developer growth.
 Chingu organizes weekly planned pair programming session which developer enroll on weekly basis, and Voyagers which developers join in teams to do a much complex tasks.
